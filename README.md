@@ -16,3 +16,8 @@ The script uses the `string` and `random` modules in Python. It defines a functi
 ## Contributions
 Feel free to fork this project, open a pull request, or submit an issue.
 The file is open-source, feel free to use it.
+
+## Important Note
+To run a .py file, you need to have Python installed on your computer. Python is an interpreted language, and the Python interpreter executes the code in the .py file.
+
+You can download Python from the official website: https://www.python.org/downloads/. Make sure to download the version that is compatible with your operating system.
