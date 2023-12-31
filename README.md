@@ -15,3 +15,4 @@ The script uses the `string` and `random` modules in Python. It defines a functi
 
 ## Contributions
 Feel free to fork this project, open a pull request, or submit an issue.
+The file is open-source, feel free to use it.
